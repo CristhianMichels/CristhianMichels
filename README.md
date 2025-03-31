@@ -1,13 +1,13 @@
 ## Olá, eu sou o Cristhian Michels! Bem-vindo ao meu GitHub.
 
-- 🔭 Atualmente estou trabalhando de FreeLancer.
+- 🔭 Atualmente estou trabalhando como FreeLancer.
 - ⚡ Estudando HTML, CSS e JavaScript
 
 ##
 <div>
   <a href="https://beacons.ai/CristhianMichels">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristhianMichels&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianMichels&layout=compact&langs_count=16&theme=dark"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianMichels&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
