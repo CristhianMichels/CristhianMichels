@@ -1,6 +1,6 @@
-## Olá, eu sou o Cristhian Michels! Bem-vindo ao meu GitHub.
+## Olá, Meu nome é Cristhian Michels! Bem-vindo ao meu GitHub.
 
-- 🔭 Atualmente estou trabalhando como FreeLancer.
+- 🔭 Atualmente estou atuando como Bolsista na area de Programação do IFRS.
 - ⚡ Estudando HTML, CSS e JavaScript
 
 ##
