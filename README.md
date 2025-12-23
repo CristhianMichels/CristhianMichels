@@ -11,11 +11,24 @@
 [![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
+
 #### Socials
 
-[![INSTAGRAM](https://img.shields.io/badge/dweg0-000000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cris.michelss)
-[![GMAIL](https://img.shields.io/badge/dtrigoaraujo@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:cristhianpostmichelscpm@gmail.com)
-[![DISCORD](https://img.shields.io/badge/dweg0-000000?style=flat&logo=discord&logoColor=white)](https://discord.com/users/541039517008658434)
+<div>
+ 
+  <a href="https://instagram.com/cris.michelss" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-3F2A60?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+  </a>
+
+  <a href="https://discord.com/users/541039517008658434" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
+  </a>
+  <a href="mailto:cristhianpostmichelscpm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-323333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  </a>
+  
+</div>
+
 
 #### GitHub Stats
 
