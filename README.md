@@ -1,5 +1,6 @@
 ## Cristhian Post Michels
 
+
 #### Bem-vindo ao meu GitHub.
 
 - 🔭 Atualmente estou atuando como Bolsista na area de Programação do IFRS.
@@ -11,25 +12,14 @@
 [![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
 
 
 #### Socials
 
-<div>
- 
-  <a href="https://instagram.com/cris.michelss" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
-  </a>
-
-  <a href="https://discord.com/users/541039517008658434" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
-  </a>
-  <a href="mailto:cristhianpostmichelscpm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  </a>
-  
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cris.michelss)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/541039517008658434)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristhianpostmichelscpm@gmail.com)
 
 
 #### GitHub Stats
