@@ -1,11 +1,11 @@
 ## Cristhian Post Michels
 
 
-#### Bem-vindo ao meu GitHub.
+👋 Hi! I'm Cristhian Post Michels.
 
-- 🔭 Atualmente estou atuando como Bolsista na area de Programação do IFRS.
-- ⚡ Estudando HTML, CSS e JavaScript
+I'm a technical high school student in Multimedia (3/4) at IFRS and currently work as a programming fellow on institutional projects.
 
+I use this space to share projects developed through academic work and personal practice.
 
 #### Technologies and tools
 
