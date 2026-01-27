@@ -4,7 +4,7 @@
 
 I am a technical high school student in Multimedia (3/4) at IFRS and currently work as a programming fellow on institutional projects.
 
-I use this space to share projects developed through academic work and personal practice.
+Projects developed through academic and personal work.
 
 #### Technologies and tools
 
