@@ -1,6 +1,6 @@
 ## 💻 About me:
 
-👋 Hi there! My name is Cristhian Michels.
+👋 Hi there! My name is Cristhian Post Michels.
 
 I am a technical high school student in Multimedia (3/4) at IFRS and currently work as a programming fellow on institutional projects.
 
