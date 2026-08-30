@@ -28,6 +28,6 @@ Projects developed through academic and personal work.
 #### GitHub Stats
 
 
-![](https://github-readme-stats.shion.dev/api?username=CristhianMichels&show_icons=true&theme=dark&include_all_commits=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristhianMichels&theme=tokyonight)](https://git.io/streak-stats)<br/>
 
 
