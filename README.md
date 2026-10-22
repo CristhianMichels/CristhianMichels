@@ -28,6 +28,12 @@ Projects developed through academic and personal work.
 #### GitHub Stats
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristhianMichels&theme=tokyonight)](https://git.io/streak-stats)<br/>
+<p>
+  <a href="https://git.io/streak-stats"><img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=CristhianMichels&theme=tokyonight" alt="GitHub Streak"></a>
+  &nbsp;
+  <a href="https://github.com/CristhianMichels"><img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CristhianMichels&layout=compact&theme=tokyonight&langs_count=8&border_radius=5" alt="Most Used Languages"></a>
+</p>
+
+
 
 
